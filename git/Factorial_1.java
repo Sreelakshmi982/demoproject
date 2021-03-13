@@ -11,6 +11,7 @@ public class Factorial_1 {
 			if (num % factor == 0) {
 				System.out.println("factors are :" + factor);
 				System.out.println("factors are :" + factor);
+				System.out.println("factors are :" + factor);
 			}
 		}
 
