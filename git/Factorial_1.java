@@ -12,6 +12,7 @@ public class Factorial_1 {
 				System.out.println("factors are :" + factor);
 				System.out.println("factors are :" + factor);
 				System.out.println("factors are :" + factor);
+				System.out.println("factors are :" + factor);
 			}
 		}
 
