@@ -10,7 +10,6 @@ public class Factorial_1 {
 		for (int factor = 1; factor <= num; factor++) {
 			if (num % factor == 0) {
 				System.out.println("factors are :" + factor);
-				System.out.println("factors are :" + factor);
 			}
 		}
 
